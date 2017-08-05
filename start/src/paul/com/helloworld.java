@@ -7,4 +7,9 @@ public class helloworld {
 		System.out.println("hello world");
 	}
 	
+	public int returnValue()
+	{
+	return 1;
+	}
+	
 }
