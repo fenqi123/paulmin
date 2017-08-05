@@ -16,4 +16,10 @@ public class helloworld {
 	{
 	return "abc";
 	}
+	public Double returndouble()
+	{
+	return "1.21";
+	}
+	
+
 }
