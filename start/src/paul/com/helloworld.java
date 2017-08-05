@@ -30,4 +30,9 @@ public class helloworld {
 		String mvp="new mvp";
 	}
 
+	public int Getsum(int a,int b)
+	{
+		return a+b;
+	}
+	
 }
