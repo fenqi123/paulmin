@@ -27,6 +27,7 @@ public class helloworld {
 	}
 	public void returnnothing()
 	{
+		String mvp="new mvp";
 	}
 
 }
