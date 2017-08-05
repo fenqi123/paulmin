@@ -25,6 +25,8 @@ public class helloworld {
 	{
 		return 2;
 	}
-	
+	public void returnnothing()
+	{
+	}
 
 }
