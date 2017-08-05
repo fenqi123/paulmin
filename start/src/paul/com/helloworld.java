@@ -12,13 +12,13 @@ public class helloworld {
 	return 1;
 	}
 	
-	pubic String returnString()
+	public String returnString()
 	{
 	return "abc";
 	}
 	public Double returndouble()
 	{
-	return "1.21";
+	return 1.21;
 	}
 	
 
