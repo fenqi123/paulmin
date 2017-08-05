@@ -12,4 +12,8 @@ public class helloworld {
 	return 1;
 	}
 	
+	pubic String returnString()
+	{
+	return "abc";
+	}
 }
