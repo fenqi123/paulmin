@@ -21,5 +21,10 @@ public class helloworld {
 	return 1.21;
 	}
 	
+	public float returnfloat()
+	{
+		return 2;
+	}
+	
 
 }
