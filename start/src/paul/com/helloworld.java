@@ -35,4 +35,8 @@ public class helloworld {
 		return a+b;
 	}
 	
+	public double returncheng(int a,int b)
+	{
+		return a*b;
+	}
 }
